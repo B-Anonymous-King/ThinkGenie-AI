@@ -41,7 +41,7 @@ pip install google-generativeai
 }
 ```
 
-###CODE
+### CODE
 ```bash
 import json
 import streamlit as st
@@ -94,7 +94,8 @@ if st.button("Summarize"):
 
 ```
 
-###🚀 Running the Program
+### 🚀 Running the Program
+  
 🔹 Start the Streamlit App
 Run the following command in the terminal:
 ```bash
