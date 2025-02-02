@@ -81,10 +81,10 @@ def summarize_text(text):
         return f"Error: {e}"
 
 # Streamlit UI
-st.title("AI-Powered Text Summarizer")
+st.title("ThinkGenie - Summarizer")
 user_input = st.text_area("Enter text to summarize")
 
-if st.button("Summarize"):
+if st.button("Magic ⚡"):
     if user_input.strip():
         summary = summarize_text(user_input)
         st.subheader("Summary")
@@ -101,4 +101,14 @@ Run the following command in the terminal:
 ```bash
 streamlit run AI.py
 ```
+
+### How to Run the App
+
+You will get the following URLs after running the app:
+
+- Local URL: `http://localhost:8501`
+- Network URL: `http://192.168.XX.XXX.XXXX`
+
+You can use the app locally using the **local URL** and access it on multiple devices if they are connected to the same network.
+
 
