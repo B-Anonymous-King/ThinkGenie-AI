@@ -1,4 +1,4 @@
-# 🚀 ThinkGenie-AI 🧞‍♂️✨  
+# 🚀 ThinkGenie-AI 🧞‍♂️✨  Create your own customized llm
 **Your AI-powered knowledge genie, summarizing text and answering questions effortlessly!**  
 
 ## 📝 Overview  
