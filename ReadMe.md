@@ -99,6 +99,6 @@ if st.button("Summarize"):
 🔹 Start the Streamlit App
 Run the following command in the terminal:
 ```bash
-streamlit run summarizer.py
+streamlit run AI.py
 ```
 
