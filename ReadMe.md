@@ -15,3 +15,7 @@ GenieBrain-AI is an **AI-driven assistant** that can:
 ### 1️⃣ Create a Virtual Environment  
 ```sh
 python -m venv myenv
+
+2️⃣ Activate the Virtual Environment
+```sh
+myenv\Scripts\activate
