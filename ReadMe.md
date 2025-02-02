@@ -17,7 +17,7 @@ GenieBrain-AI is an **AI-driven assistant** that can:
 python -m venv myenv
 
 ```
-###2️⃣ Activate the Virtual Environment
+2️⃣ Activate the Virtual Environment
 On Windows
 ```sh
 myenv\Scripts\activate
