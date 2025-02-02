@@ -39,7 +39,9 @@ pip install google-generativeai
 {
   "GEMINI_API_KEY": "your_api_key_here"
 }
+
 ```
+/Gemini API is free to use link: ```https://aistudio.google.com/prompts/new_chat?model=gemini-2.0-flash-exp&utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=```
 
 ### CODE
 ```bash
