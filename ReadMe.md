@@ -25,3 +25,13 @@ myenv\Scripts\activate
 On macOS/Linux
 ```sh
 source myenv/bin/activate
+
+```
+**3️⃣ Install Required Libraries**
+```sh
+pip install streamlit  
+pip install google-generativeai
+```
+### 🔑 Setting Up API Key
+✅ Option 1: Save API Key in config.json (Recommended for Custom Use)
+1️⃣ Create a `config.json` file in the project directory with the following structure:
