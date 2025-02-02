@@ -38,3 +38,20 @@ pip install google-generativeai
 1️⃣ 
 Create a config.json file in the project directory with the following structure:
 
+```json
+{
+  "GEMINI_API_KEY": "your_api_key_here"
+}
+```
+## ✅ Option 2: Permanent API Key Setup (Optional)
+1️⃣ Go to System Settings → Environment Variables
+2️⃣ Create a new Environment Variable
+
+Variable Name: GEMINI_API_KEY
+Variable Value: Paste your API key here
+3️⃣ Click OK and restart your terminal
+---
+
+###🚀 Running the Program
+🔹 Start the Streamlit App
+Run the following command in the terminal:
